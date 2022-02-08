@@ -1,15 +1,1 @@
-{
-    "name": "Number #0001",
-    "symbol": "NB",
-    "description": "Collection of 10 numbers on the blockchain. This is the number 1/10.",
-    "image": "https://miro.medium.com/max/875/1*mk1-6aYaf_Bes1E3Imhc0A.jpeg",
-    "attributes": [
-        {"trait_type": "Layer-1", "value": "0"},
-        {"trait_type": "Layer-2", "value": "0"}, 
-        {"trait_type": "Layer-3", "value": "0"},
-        {"trait_type": "Layer-4", "value": "1"}
-    ],
-    "properties": {
-    },
-    "collection": {"name": "numbers", "family": "numbers"}
-}
+{"name":"Art #0010","symbol":"","description":"","seller_fee_basis_points":500,"image":"https://www.arweave.net/FDM9lYDQqC4CN5MKffMjlHgyHvDeR7hgaE-DwgOlNLA?ext=png","external_url":"https://www.example.com/","attributes":[{"trait_type":"Background Color","value":"thistle"},{"trait_type":"Head Color","value":"lightsteelblue"},{"trait_type":"Neck Color","value":"dimgray"}],"collection":{"name":"OG Collection","family":"tb"},"properties":{"files":[{"uri":"https://www.arweave.net/FDM9lYDQqC4CN5MKffMjlHgyHvDeR7hgaE-DwgOlNLA?ext=png","type":"image/png"}],"category":"image","maxSupply":0,"creators":[{"address":"Grp6sMQrjdD9wTCMKApA3E1N5F88BEjpz9LEzkFZJBFx","share":100}]}}
